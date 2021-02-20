@@ -16,7 +16,7 @@ module.exports = {
     path: path.resolve(__dirname, '../plugin/aliyun'),
   },
   redis: {
-    enable: !!process.env.REDIS_URL,
+    enable: true,
     package: 'egg-redis',
   },
   cors: {
