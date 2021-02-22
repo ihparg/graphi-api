@@ -19,15 +19,6 @@
     "tencentcloud-sdk-nodejs": "^4.0.34",
     "ylru": "^1.2.1"
   },
-  "devDependencies": {
-    "autod": "^3.0.1",
-    "autod-egg": "^1.1.0",
-    "egg-bin": "^4.11.0",
-    "egg-ci": "^1.11.0",
-    "egg-mock": "^3.21.0",
-    "eslint": "^7.15.0",
-    "eslint-config-egg": "^9.0.0"
-  },
   "engines": {
     "node": ">=12.0.0"
   },
